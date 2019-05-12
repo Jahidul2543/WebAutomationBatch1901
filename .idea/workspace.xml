@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58df8fe9-a2c2-45b7-b710-ddddf778ff83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaBasicBatch1901/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VersionCompatibility/src/main/java/connectdb/ConnectDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VersionCompatibility/src/main/java/connectdb/ConnectMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VersionCompatibility/src/main/java/connectdb/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/drivers/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/drivers/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/drivers/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/drivers/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/base/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candymapper/webcandymapper/src/test/resources/CandymapperTestRunnerFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/General Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/accounts/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/accounts/SalaryCalulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/DeepDiveArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/api/MapAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/Nokia1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/PreNokia1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/inheritance/SymbianPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/BufferReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/java/io/ReadTestDataXLSXFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/main/java/utility/XLSXFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/Unit-Testing-Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/accountstest/SalaryCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midtermbatch1901/src/test/java/dbtest/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simplewebapp/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1327335717">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="110" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="110" />
+          <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumVeryBasicDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../MobileAutomationTesting/functional-tests-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lambda-selenium/lambda-selenium-java" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/SeleniumVeryBasicDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1473" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationBatch1901" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationBatch1901" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557669790961" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SeleniumVeryBasicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumVeryBasicDemo" />
+      <module name="WebAutomationBatch1901" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeleniumVeryBasicDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58df8fe9-a2c2-45b7-b710-ddddf778ff83" name="Default Changelist" comment="" />
+      <created>1557666863019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557666863019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1473" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24737945" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="BeanShell Box" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumVeryBasicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
